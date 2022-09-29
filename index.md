@@ -29,7 +29,7 @@ To do:
 
 [Some more work experience and projects](docs/test.md)
 
-Click [here](#user-page:-alex-towfigh) to go to back the top section
+
 
 
 
